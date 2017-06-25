@@ -34,7 +34,7 @@ var text = "2017";
 var regexGenerator = new RegexGenerator(/*RegexLanguage.DotNet*/)
     .AddPositiveLookbehindAssertion(@"\b20")
     .Add(@"\d", min: 2, max: 2)
-    .Add(@"\b";
+    .Add(@"\b");
 
 // Check the generated regex pattern syntax.
 var generatedPattern = regexGenerator.ToString(); // = @"(?<=\b20)\d{2}\b"
@@ -57,7 +57,7 @@ var text = "2017";
 var regexGenerator = new RegexGenerator(RegexLanguage.ECMAScript)
     .AddPositiveLookbehindAssertion(@"\b20")
     .Add(@"\d", min: 2, max: 2)
-    .Add(@"\b";
+    .Add(@"\b");
 
 // Check the generated regex pattern syntax.
 var generatedPattern = regexGenerator.ToString(); // = @"/(?<=\b20)\d{2}\b/"
