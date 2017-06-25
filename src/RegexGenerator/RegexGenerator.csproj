@@ -27,7 +27,7 @@
 
     <PackageProjectUrl>https://github.com/WilliamWsyHK/RegexGenerator</PackageProjectUrl>
 
-    <PackageLicenseUrl>https://raw.githubusercontent.com/WilliamWsyHK/RegexGenerator/master/README.md</PackageLicenseUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/WilliamWsyHK/RegexGenerator/master/LICENSE</PackageLicenseUrl>
 
     <Copyright>2017 William WONG (WONG, S.Y.)</Copyright>
   </PropertyGroup>
