@@ -11,7 +11,8 @@ Address: 0x1226378d71DB5bf16DF0A2fe52C3c7917739da0A
 
 ## Introduction
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/WilliamWsyHK/RegexGenerator/blob/master/LICENSE)
+[![Also On NuGet!](https://img.shields.io/badge/Also%20On-NuGet-blue.svg)](https://www.nuget.org/packages/WilliamWsy.RegexGenerator/0.0.1)
 
 This project is intended to help developers to generate complex regex pattern syntax by combining basic pattern blocks.
 
