@@ -30,6 +30,10 @@
     <PackageLicenseUrl>https://raw.githubusercontent.com/WilliamWsyHK/RegexGenerator/master/LICENSE</PackageLicenseUrl>
 
     <Copyright>2017 William WONG (WONG, S.Y.)</Copyright>
+
+    <PackageTags>RegexGenerator Regex regex Regexp regexp</PackageTags>
+
+    <NeutralLanguage />
   </PropertyGroup>
 
   <ItemGroup>
