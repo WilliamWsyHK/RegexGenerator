@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <Description>This project is intended to help developers to generate complex regex pattern syntax by combining basic pattern blocks.</Description>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+
+    <LangVersion>Latest</LangVersion>
+
+    <RootNamespace>WilliamWsy.RegexGenerator</RootNamespace>
+
+    <AssemblyName>WilliamWsy.RegexGenerator</AssemblyName>
+
+    <Version>0.0.1</Version>
+
+    <Authors>William WONG (WONG, S.Y.)</Authors>
+
+    <Company />
+
+    <Product>RegexGenerator</Product>
+
+    <RepositoryType>git</RepositoryType>
+
+    <RepositoryUrl>https://github.com/WilliamWsyHK/RegexGenerator</RepositoryUrl>
+
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+
+    <PackageProjectUrl>https://github.com/WilliamWsyHK/RegexGenerator</PackageProjectUrl>
+
+    <PackageLicenseUrl>https://raw.githubusercontent.com/WilliamWsyHK/RegexGenerator/master/README.md</PackageLicenseUrl>
+
+    <Copyright>2017 William WONG (WONG, S.Y.)</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Net.Compilers" Version="2.2.0" />
+  </ItemGroup>
+
+</Project>
